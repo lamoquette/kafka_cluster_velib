@@ -32,3 +32,8 @@ https://kafka.apache.org/
 
 5. Lancer le consumer velib-monitor-stations :
 `python ./velib-monitor-stations.py`
+
+
+
+Basé sur :
+https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donnees-temps-reel/4451521-metamorphosez-vos-applications-temps-reel-avec-kafka
